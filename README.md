@@ -1,4 +1,4 @@
-#Predicting Heart Disease Using Machine Learning
+# Predicting Heart Disease Using Machine Learning
 
 Overview
 This project aims to predict whether or not a patient has heart disease based on a set of medical attributes using various Python-based machine learning and data science libraries. By exploring and building machine learning models, this project seeks to provide insights into heart disease prediction and determine if we can achieve a model with high accuracy, ultimately striving for a 95% accuracy rate as a proof of concept.
