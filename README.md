@@ -41,8 +41,8 @@ The dataset used for this project contains various medical attributes of patient
 
 
 ## Project Structure
-data/: Contains the dataset(s) used in the project.
-notebooks/: Jupyter notebooks with data exploration, modeling, and evaluation.
+* data/: Contains the dataset(s) used in the project.
+* notebooks/: Jupyter notebooks with data exploration, modeling, and evaluation.
 
 ## Model Evaluation
 The goal of this project is to achieve an accuracy of at least 95% during the proof of concept. Various models were explored, including logistic regression, decision trees, random forests, and others, to determine the best-performing model.
