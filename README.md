@@ -1,17 +1,18 @@
 # Predicting Heart Disease Using Machine Learning
 
-Overview
+## Overview
 This project aims to predict whether or not a patient has heart disease based on a set of medical attributes using various Python-based machine learning and data science libraries. By exploring and building machine learning models, this project seeks to provide insights into heart disease prediction and determine if we can achieve a model with high accuracy, ultimately striving for a 95% accuracy rate as a proof of concept.
 
-Project Objectives
+## Project Objectives
 Build, evaluate, and optimize a machine learning model for predicting heart disease.
 Utilize popular Python libraries such as Scikit-learn, Pandas, NumPy, and Matplotlib for data processing, visualization, and modeling.
 Investigate the impact of different features on the prediction of heart disease.
 Pursue further development if the model achieves 95% accuracy or higher.
-Dataset Description
+
+## Dataset Description
 The dataset used for this project contains various medical attributes of patients, which are used as input features for prediction. The target variable indicates whether or not the patient has heart disease.
 
-Data Dictionary
+## Data Dictionary
 age: The person’s age in years
 sex: The person’s sex (1 = male, 0 = female)
 cp (chest pain type):
@@ -42,17 +43,17 @@ thal (thalassemia):
 target: Heart disease status (1 = no heart disease, 0 = heart disease)
 
 
-Project Structure
+## Project Structure
 data/: Contains the dataset(s) used in the project.
 notebooks/: Jupyter notebooks with data exploration, modeling, and evaluation.
 
-Model Evaluation
+## Model Evaluation
 The goal of this project is to achieve an accuracy of at least 95% during the proof of concept. Various models were explored, including logistic regression, decision trees, random forests, and others, to determine the best-performing model.
 
-Feature Importance
+## Feature Importance
 Understanding the impact of each feature on the model's predictions is critical for better insights into heart disease prediction. You can find more detailed analyses and visualizations in the notebooks provided.
 
-Future Improvements
+## Future Improvements
 Further optimization of the model's hyperparameters to improve accuracy.
 Integration of more advanced machine learning models or ensemble methods.
 Collaboration with domain experts for better feature engineering and validation.
